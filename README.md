@@ -1,4 +1,4 @@
-# Hi, I'm [Karthik Sekar](https://www.linkedin.com/in/ItsKarthikSekar) 👋
+# Hi, I'm [Vijesh Nair](https://www.linkedin.com/in/ItsKarthikSekar) 👋
 **Senior Cloud Solutions Architect** | **Azure Certified Expert (AZ-104 & AZ-305)** | **Multi-Cloud & DevOps Leader Driving Cloud Innovation & Automation** | **Kubernetes · Terraform · Ansible** | **Mentor & Technical Leader**
 <p>
   <a href="https://www.linkedin.com/in/ItsKarthikSekar"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ItsKarthikSekar-0A66C2?logo=linkedin&logoColor=white" /></a>
